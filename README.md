@@ -1,6 +1,12 @@
 # Garden-no-CJK
 http://fonts.jp/hanazono/
+
+名字是花園缺漢字
+
+The name is the Garden no CJK
+
 這是用花園明朝改的字體
+
 This is the font changed by 花園フォント
 
 製作簡單粗暴，只是把所有漢字改成缺字
@@ -15,6 +21,6 @@ This kind of font is not very practical, just to see the lack of characters, it 
 
 Can supplement any font knowledge
 
-A和B最好一起安裝，因為台客字問題，我為B添加字，還是避免使用罕用字，可能不更新，因為字體製作軟體無法收太多和字😭
+A和B最好一起安裝，因為台客字問題，我為B添加字，還是避免使用罕用字，可能不更新，因為字體製作軟體可能無法收太多漢字😭
 
-It is best to install A and B together, because of the Taike character problem, I will add characters for B, or avoid using rare characters, and may not update, because the font making software cannot accept too many and characters 😭
+It is best to install A and B together, because of the Taike character problem, I will add characters for B, or avoid using rare characters, and may not update, because the font making software may not be able to accept too many Chinese characters😭
