@@ -1,4 +1,4 @@
-# Garden-no-CJK
+# 花園缺漢字 Garden no CJK
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Garden-no-CJK/main/%E8%8A%B1%E5%9C%92%E7%BC%BA%E6%BC%A2%E5%AD%97.png)
 
 名字是花園缺漢字
