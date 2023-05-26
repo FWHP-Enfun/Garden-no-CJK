@@ -11,6 +11,10 @@ http://fonts.jp/hanazono/
 
 This is the font changed by 花園フォント
 
+改編的字體是SIL Open Font License 1.1 授權條款，我是改它
+
+The adapted font is SIL Open Font License 1.1 license terms, I changed it
+
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Garden-no-CJK/main/%E8%8A%B1%E5%9C%92%E6%98%8E%E6%9C%9D.png)
 
 製作簡單粗暴，只是把所有漢字改成缺字
